@@ -21,7 +21,9 @@ MiniSOC-Analyzer, gerçek zamanlı log analizi ve güvenlik alert üretimi için
 ## Dosya Yapısı
 
 MiniSOC-Analyzer/
+
 │
+
 ├── analyzer.py # Ana analiz ve alert üretim scripti
 
 ├── logs/ # Örnek log dosyaları (auth.log, web.log, network.log)

@@ -1,0 +1,72 @@
+[HIGH] Brute Force
+IP: 192.168.1.10
+Description: Multiple failed login attempts detected
+MITRE Tactic: Credential Access
+MITRE Technique: Brute Force (T1110)
+----------------------------------------
+[HIGH] Brute Force
+IP: 10.0.0.3
+Description: Multiple failed login attempts detected
+MITRE Tactic: Credential Access
+MITRE Technique: Brute Force (T1110)
+----------------------------------------
+[HIGH] Brute Force
+IP: 172.16.0.8
+Description: Multiple failed login attempts detected
+MITRE Tactic: Credential Access
+MITRE Technique: Brute Force (T1110)
+----------------------------------------
+[HIGH] Brute Force
+IP: 192.168.1.11
+Description: Multiple failed login attempts detected
+MITRE Tactic: Credential Access
+MITRE Technique: Brute Force (T1110)
+----------------------------------------
+[HIGH] SQL Injection
+IP: 10.0.0.5
+Description: Possible SQL injection attempt
+MITRE Tactic: Initial Access
+MITRE Technique: SQL Injection (T1190)
+----------------------------------------
+[HIGH] SQL Injection
+IP: 10.0.0.8
+Description: Possible SQL injection attempt
+MITRE Tactic: Initial Access
+MITRE Technique: SQL Injection (T1190)
+----------------------------------------
+[HIGH] SQL Injection
+IP: 10.0.0.11
+Description: Possible SQL injection attempt
+MITRE Tactic: Initial Access
+MITRE Technique: SQL Injection (T1190)
+----------------------------------------
+[MEDIUM] XSS Attack
+IP: 10.0.0.7
+Description: Cross-site scripting attempt detected
+MITRE Tactic: Initial Access / Execution
+MITRE Technique: Cross-Site Scripting (T1059.007)
+----------------------------------------
+[MEDIUM] XSS Attack
+IP: 10.0.0.12
+Description: Cross-site scripting attempt detected
+MITRE Tactic: Initial Access / Execution
+MITRE Technique: Cross-Site Scripting (T1059.007)
+----------------------------------------
+[MEDIUM] Port Scan
+IP: 192.168.1.5
+Description: Multiple ports accessed in short time
+MITRE Tactic: Reconnaissance
+MITRE Technique: Port Scanning (T1046)
+----------------------------------------
+[MEDIUM] Port Scan
+IP: 192.168.1.7
+Description: Multiple ports accessed in short time
+MITRE Tactic: Reconnaissance
+MITRE Technique: Port Scanning (T1046)
+----------------------------------------
+[MEDIUM] Port Scan
+IP: 192.168.1.11
+Description: Multiple ports accessed in short time
+MITRE Tactic: Reconnaissance
+MITRE Technique: Port Scanning (T1046)
+----------------------------------------

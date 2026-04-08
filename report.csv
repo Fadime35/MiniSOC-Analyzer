@@ -1,0 +1,13 @@
+type,ip,risk,description,MITRE Tactic,MITRE Technique,MITRE ID
+Brute Force,192.168.1.10,HIGH,Multiple failed login attempts detected,Credential Access,Brute Force,T1110
+Brute Force,10.0.0.3,HIGH,Multiple failed login attempts detected,Credential Access,Brute Force,T1110
+Brute Force,172.16.0.8,HIGH,Multiple failed login attempts detected,Credential Access,Brute Force,T1110
+Brute Force,192.168.1.11,HIGH,Multiple failed login attempts detected,Credential Access,Brute Force,T1110
+SQL Injection,10.0.0.5,HIGH,Possible SQL injection attempt,Initial Access,SQL Injection,T1190
+SQL Injection,10.0.0.8,HIGH,Possible SQL injection attempt,Initial Access,SQL Injection,T1190
+SQL Injection,10.0.0.11,HIGH,Possible SQL injection attempt,Initial Access,SQL Injection,T1190
+XSS Attack,10.0.0.7,MEDIUM,Cross-site scripting attempt detected,Initial Access / Execution,Cross-Site Scripting,T1059.007
+XSS Attack,10.0.0.12,MEDIUM,Cross-site scripting attempt detected,Initial Access / Execution,Cross-Site Scripting,T1059.007
+Port Scan,192.168.1.5,MEDIUM,Multiple ports accessed in short time,Reconnaissance,Port Scanning,T1046
+Port Scan,192.168.1.7,MEDIUM,Multiple ports accessed in short time,Reconnaissance,Port Scanning,T1046
+Port Scan,192.168.1.11,MEDIUM,Multiple ports accessed in short time,Reconnaissance,Port Scanning,T1046
